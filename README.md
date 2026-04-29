@@ -1,19 +1,3 @@
-# TestProject
+# Kutil gen1-gen4
 
-### 프로그래밍 연습 코드 & 간단한 프로젝트
-
-##### 현재 프로젝트 목록
-
-- C 언어 연습
-
-- Java 연습
-
-- R 연습
-
-- 초창기 Python 코드
-
-- Python-Go 연동 코드
-
-- Android Hello
-
-last update : 2025.05.16
+Early utility codes of project Kutil generation 1 to 4
